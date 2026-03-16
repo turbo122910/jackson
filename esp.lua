@@ -14,7 +14,7 @@ local Drawing = Drawing
 -- ESP Configuration
 local ESP_CONFIG = {
     -- Colors
-    AllyColor = Color3.fromRGB(0, 0, 255),      -- Green for teammates
+    AllyColor = Color3.fromRGB(0, 0, 255),      -- Blue for teammates
     EnemyColor = Color3.fromRGB(255, 50, 50),   -- Red for enemies
     NeutralColor = Color3.fromRGB(150, 150, 150),-- Grey for no team
     
